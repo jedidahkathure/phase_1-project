@@ -33,6 +33,8 @@ Accident Frequency by Phase of Flight: Visualized and compared across aircraft c
 Fatality Proportions by Phase of Flight: Analyzed how fatalities are distributed across different flight phases.
 Risk by Aircraft Make: Identified low-risk manufacturers (e.g., BELL).
 
+After conducting a thorough analysis, we observed that airplanes not only represent the majority of the data in terms of total flights recorded, but also provide the most complete and reliable information across all variables. This makes the airplane category the most statistically significant for risk analysis and comparison.
+
 # Visualizations
 
 Line graphs (Total injuries over time by Make).
@@ -40,15 +42,22 @@ Bar plots (Accidents by Phase of Flight and Aircraft Category).
 Stacked bar charts (Proportion of fatalities).
 Tableau Dashboards (for deeper interactive insights).
 
+# Dashboard URL
+
+https://public.tableau.com/app/profile/jedida.kathure/viz/Book1_17459268456230/Dashboard1?publish=yes
+
 # Recommendations
 Prioritize safer aircraft models like BELL where operational flexibility allows.
 Focus on critical flight phases such as Landing and Takeoff, which show higher accident rates.
 Enhance pilot training and operational checks during high-risk phases.
 
 # Next Steps
-Expand dataset to include recent years for updated trends.
-Build a predictive model to estimate accident risk based on conditions.
-Explore weather conditions impact on accident severity.
+Acquire recommended aircraft models.
+Set up internal safety tracking and reporting systems.
+Collect operational risk data during flights.
+Plan gradual expansion into more complex aircraft types
+(e.g., helicopters) after gaining initial experience.
+
 
 # How to Use
 Clone this repository.
@@ -57,8 +66,8 @@ Install required libraries (pip install pandas matplotlib seaborn).
 Run the code and explore the visualizations.
 Check Tableau dashboards for interactive insights.
 
-Name: Jedidah
+Name: Jedidah Kathure Muriira
 
 Email: kathurejedidah37@gmail.com
 
-LinkedIn: [Your LinkedIn Profile] (optional)
+LinkedIn: www.linkedin.com/in/jedidah-kathure
